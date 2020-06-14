@@ -1,0 +1,14 @@
+1. 安裝GitKraken
+2. 建立一個資料夾，如gitTest
+3. 打開Git Bash
+4. cd gitTest
+5. git init(建立git repository)
+6. git log(檢視目前版本管理有哪些內容)
+7. git status(檢視目前git狀況)
+8. 建立一檔案，iindex.html
+9. git add index.html(將index.html加入版本管理)
+10. git config --global --list
+11. 設定user name & user email address
+12. git config --global user.email "boomlong@gmail.com"
+13. git config --global user.name "JiunchiChen"
+14. 將檔案commit, git commit -m "init"
